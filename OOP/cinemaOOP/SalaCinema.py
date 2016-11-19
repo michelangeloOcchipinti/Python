@@ -1,3 +1,7 @@
+#!/usr/local/bin/python 
+# -*- coding: utf-8 -*-
+
+#Classe che crea le sale del cinema come oggetti
 class SalaCinema:
     
     def __init__(self,numFile,maxPerFila,film):

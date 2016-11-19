@@ -1,3 +1,7 @@
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
+
+#Classe che crea i film da utilizzare nelle sale come oggetti
 class Film:
 
     def __init__(self, titolo, prezzo):
